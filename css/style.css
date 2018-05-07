@@ -657,11 +657,11 @@ width: 350px;
   }
   .second-graph-res>div:first-child {
     position: relative;
-    left: 18px;
+    left: 20px;
   }
   .second-graph-res>div:nth-child(2) {
     position: relative;
-    left: 9px;
+    left: 12px;
   }
   .first-block-content {
     display: grid;
