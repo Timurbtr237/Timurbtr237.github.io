@@ -721,10 +721,10 @@ width: 350px;
 }
 @media screen and (max-width: 330px) {
   .hero-carousel {
-    width: 160%;
+    width: 170%;
   }
   .content {
     position: relative;
-    left: 40px;
+    left: 50px;
   }
 }
