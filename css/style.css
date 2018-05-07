@@ -657,7 +657,7 @@ width: 350px;
   }
   .second-graph-res>div:first-child {
     position: relative;
-    left: 5px;
+    left: 2px;
   }
   .second-graph-res>div:nth-child(2) {
     position: relative;
