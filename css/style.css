@@ -735,4 +735,8 @@ width: 350px;
     position: relative;
     left: 5px;
   }
+  .buttons {
+    position: relative;
+    left: 70px;
+  }
 }
