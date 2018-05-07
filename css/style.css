@@ -719,12 +719,12 @@ width: 350px;
     top : -20px;
   }
 }
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 333px) {
   .hero-carousel {
-    width: 170%;
+    width: 180%;
   }
   .content {
     position: relative;
-    left: 50px;
+    left: 60px;
   }
 }
