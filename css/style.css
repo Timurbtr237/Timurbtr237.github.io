@@ -490,7 +490,7 @@ width: 350px;
 @media screen and (max-width: 800px) {
   .content {
     position: relative;
-    left: 15px;
+    left: 20px;
   }
   #all-content{
     position: relative;
