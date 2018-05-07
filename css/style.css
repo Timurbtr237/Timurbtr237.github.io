@@ -729,10 +729,10 @@ width: 350px;
   }
   .second-graph-res>div:first-child {
     position: relative;
-    left: 15px;
+    left: 10px;
   }
   .second-graph-res>div:nth-child(2) {
     position: relative;
-    left: 8px;
+    left: 5px;
   }
 }
